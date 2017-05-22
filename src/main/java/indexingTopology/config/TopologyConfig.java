@@ -34,6 +34,8 @@ public class TopologyConfig implements Serializable {
 
     public boolean HDFSFlag = false;
 
+    public boolean HybridStorage = false;
+
 //    public static String dataDir = "/Users/Robert/Documents/data";
     public String dataDir = "/home/wangli/data";
 //    public static String dataDir = "/home/acelzj/data";
